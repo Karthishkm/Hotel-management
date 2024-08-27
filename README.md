@@ -1,5 +1,4 @@
 # Hotel Management Website
-
 This is a fully responsive hotel management website built using only frontend technologies. The website allows users to explore hotel amenities, view room options, and make reservations.
 
 ## Table of Contents
