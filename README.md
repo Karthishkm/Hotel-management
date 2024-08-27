@@ -26,8 +26,4 @@ This is a fully responsive hotel management website built using only frontend te
 - **CSS3**: Styling and layout.
 - **JavaScript**: Interactivity and dynamic content.
 
-## Screenshots
 
-![Homepage Screenshot](link_to_homepage_screenshot)
-![Room Details Screenshot](link_to_room_details_screenshot)
-![Reservation Form Screenshot](link_to_reservation_form_screenshot)
